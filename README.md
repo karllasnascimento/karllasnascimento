@@ -2,6 +2,8 @@
 
 Platform engineer at Creditas, I work and study automation and infrastructure as code (IaC), AWS, Kubernetes, and Docker, with Go and Python languages. Join me on this journey towards more efficient and resilient systems.
 
+![aws-certified-cloud-practitioner (2)](https://github.com/karllasnascimento/karllasnascimento/assets/89461448/5664ceb6-26bf-47a8-a89e-36f032b64259)
+
 <!--
 **karllasnascimento/karllasnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
