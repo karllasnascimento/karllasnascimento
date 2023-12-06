@@ -1,6 +1,6 @@
 ## Hello, I am Karlla!✨
 
-Platform engineer at Creditas, I work and study automation and infrastructure as code (IaC), AWS, Kubernetes, and Docker, with Go and Python languages. Join me on this journey towards more efficient and resilient systems.
+Senior SRE at Zup, I work and study automation and infrastructure as code (IaC), AWS, Kubernetes, and Docker, with Go and Python languages. Join me on this journey towards more efficient and resilient systems.
 
 ![aws-certified-cloud-practitioner](https://github.com/karllasnascimento/karllasnascimento/blob/main/aws-certified-cloud-practitioner.png)
 
