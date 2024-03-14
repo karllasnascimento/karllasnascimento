@@ -2,7 +2,9 @@
 
 Senior SRE at Zup, I work and study automation and infrastructure as code (IaC), AWS, Kubernetes, and Docker, with Go and Python languages. Join me on this journey towards more efficient and resilient systems.
 
-![aws-certified-cloud-practitioner](https://github.com/karllasnascimento/karllasnascimento/blob/main/aws-certified-cloud-practitioner.png)
+![aws-certified-cloud-practitioner](https://github.com/karllasnascimento/karllasnascimento/assets/89461448/17ce7401-398f-48e8-980e-56d0fd8b534f)
+![hashicorp-certified-terraform-associate-003 (1)](https://github.com/karllasnascimento/karllasnascimento/assets/89461448/aa8805ed-1c73-4aef-a4f6-60df1288f236)
+
 
 <!--
 **karllasnascimento/karllasnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
