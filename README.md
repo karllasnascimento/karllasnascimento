@@ -1,6 +1,6 @@
 ## Hello, I am Karlla!✨
 
-Senior SRE at Zup, I work and study automation and infrastructure as code (IaC), AWS, Kubernetes, and Docker, with Go and Python languages. Join me on this journey towards more efficient and resilient systems.
+Senior SRE at Grupo Boticário, I work and study automation and infrastructure as code (IaC), AWS, Kubernetes, and Docker, with Go and Python languages. Join me on this journey towards more efficient and resilient systems.
 
 ![aws-certified-cloud-practitioner (2)](https://github.com/karllasnascimento/karllasnascimento/assets/89461448/03c75ccb-29aa-4442-a38c-1e57018c5454)
 ![hashicorp-certified-terraform-associate-003 (1)](https://github.com/karllasnascimento/karllasnascimento/assets/89461448/aa8805ed-1c73-4aef-a4f6-60df1288f236)
